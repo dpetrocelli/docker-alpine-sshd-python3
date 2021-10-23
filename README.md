@@ -15,7 +15,7 @@ To be able to run this image you need to follow the following steps:
 * Build the docker image.
 
 ## Process Example
-'''bash
+''' bash
 # Clone the repository
 $ git clone https://github.com/dpetrocelli/docker-alpine-sshd-python3.git
 
